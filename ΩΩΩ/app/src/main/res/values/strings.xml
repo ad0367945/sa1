@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI Trading Overlay</string>
+    <string name="notif_channel_name">Capture</string>
+    <string name="notif_channel_desc">Screen capture in progress</string>
+</resources>
